@@ -1,14 +1,20 @@
-### Screenshot
+# DevTools - Debugging
 
-### Breakpoint List  Screenshot
+#### Screenshot
 
-### Watch Expressions List Screenshot
+#### Breakpoint List  Screenshot
+
+#### Watch Expressions List Screenshot
 
 #### What was the bug?
 
 #### How would you fix it?
 
-### Screenshot of fixed file
+#### Screenshot of fixed file
+
+# DevTools - Network Tab
+
+
 
 
 
